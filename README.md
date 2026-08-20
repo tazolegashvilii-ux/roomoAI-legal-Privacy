@@ -1,54 +1,71 @@
 # Privacy Policy for Roomo AI: AI Home Designer
 *Effective Date: August 17, 2026*
 
-Roomo AI: AI Home Designer ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
+Welcome to Roomo AI: AI Home Designer ("we," "our," or "us"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy details how we collect, use, store, and protect your information when you download and use our mobile application, in compliance with applicable privacy regulations including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
 
-Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the App.
+## 1. Definitions and Key Terms
+To ensure complete clarity, the following terms are defined as follows:
 
-## 1. Information We Collect
+* **App:** Means the Roomo AI: AI Home Designer mobile application available on the Apple App Store.
+* **Company / Developer:** Means the legal entity or developer team responsible for processing your information under this Privacy Policy.
+* **Device:** Means any internet-connected iOS or iPadOS device used to access the Service.
+* **IP Address:** A numerical label assigned to your device connected to the internet, used strictly for network communication and approximate geographical location inference.
+* **Personal Data:** Any information that directly, indirectly, or in combination with other data allows the identification of a natural person.
+* **Service:** Means all features, AI processing pipelines, and subscription capabilities provided through the App.
+* **Third-Party Services:** Refers to external infrastructure, billing, and AI processing entities (specifically Apple, RevenueCat, Supabase, and Fal.ai) that assist in operating the Service.
 
-### A. Photos & User-Submitted Content
-* **Uploaded Images:** When you use the App to generate room designs, you upload photos of interior or exterior spaces. These images are processed temporarily to render your requested AI designs.
-* **Text Prompts & Preferences:** We collect design preferences, selected styles, or text prompts you input to generate specific room layouts.
+## 2. Information We Collect
+We adhere to strict data minimization principles and collect only the minimum amount of information necessary to operate the App:
 
-### B. Automatically Collected Data & Technical Identifiers
-* **Device Identifiers:** We may collect anonymous device identifiers (such as IDFV - Identifier for Vendors) to manage user sessions, generation quotas, and app functionality.
-* **Usage & Diagnostic Data:** We collect aggregate data regarding feature usage, error logs, and performance metrics to troubleshoot issues and optimize response times.
+* **User-Uploaded Content:** Photos of rooms or properties uploaded by you solely to generate AI-driven interior and exterior design concepts.
+* **Device & Account Identifiers:** Anonymized user or device identifiers used to manage active subscription statuses and track remaining AI generation limits.
+* **Automatic Technical Data Collection:** Non-identifying technical log data—including IP addresses, device models, operating system versions, app crash logs, and event timestamps—collected automatically to maintain network security, monitor system stability, and prevent system abuse.
+* **Payment Information:** All financial transactions, in-app purchases, and free trials are processed directly by Apple’s App Store and RevenueCat. We do not collect, store, or process your credit card details or bank credentials.
 
-### C. Purchase & Subscription Data
-* **Transaction History:** All financial transactions, payments, and subscription processing are handled directly by Apple via the App Store. We do not collect, process, or store credit card details or bank account information.
-* **Subscription State:** We use third-party subscription management tools (RevenueCat) to verify active subscription statuses and entitlements.
+## 3. How We Use Your Information & Third-Party AI Data Processing
+We use your collected information strictly for operational and functional purposes:
 
-## 2. How We Use Your Information
-We use the collected information solely for the following purposes:
-* **To Provide AI Design Services:** Processing your uploaded photos through artificial intelligence pipelines to return modified design renderings.
-* **To Manage Entitlements & Subscriptions:** Validating generation credits, free trial status, and active weekly/yearly subscriptions.
-* **To Improve App Functionality:** Monitoring system performance, server response times, and fixing technical bugs.
-* **Customer Support:** Responding to inquiries or troubleshooting requests sent to our support email.
+* **App Functionality:** To render interior design transformations, maintain system stability, and enforce rate limits.
+* **Third-Party AI Processing Disclosure:** We utilize Fal.ai as a third-party AI image processing API provider. When you request an AI room redesign, your uploaded photo is securely transmitted to Fal.ai over encrypted connections strictly for the execution of the AI generation task. Your photos are not sold, used to train public AI models, or accessed for any other purpose.
 
-## 3. Third-Party Services & Data Sharing
-We do not sell, rent, or trade your personal information or uploaded photos to third parties or advertisers. We share data strictly with infrastructure providers necessary to operate the App:
+## 4. Legal Bases for Processing (GDPR)
+Depending on your jurisdiction, we process your personal data under the following legal bases:
 
-* **AI Image Processing (Fal.ai):** Uploaded room photos and style prompts are transmitted securely via API to cloud GPU providers (such as Fal.ai) solely for generating the requested AI image output. Photos are not retained long-term or used to train public AI models.
-* **In-App Purchase Infrastructure (RevenueCat):** App receipt data and anonymous user tokens are processed through RevenueCat to manage subscriptions and generation limits.
-* **App Store Processing (Apple Inc.):** All billing, payment management, and distribution are governed by Apple's Privacy Policy.
+* **Performance of a Contract:** To fulfill your requests, process room photos, and deliver AI design concepts.
+* **Legitimate Interests:** To maintain network security, prevent fraudulent activity, monitor app performance, and improve service stability.
+* **Compliance with Legal Obligations:** To fulfill statutory accounting, legal, or regulatory demands.
 
-## 4. Data Retention & Security
-* **Short-Term Processing:** Uploaded room photos and generated renderings are stored temporarily in cloud processing pipelines only for as long as necessary to complete your request and display the result on your device.
-* **Security Measures:** We implement industry-standard encryption protocols (HTTPS/TLS) during data transit to prevent unauthorized access or disclosure of your information.
+## 5. Data Sharing and Disclosure
+* **No Sale or Commercial Exploitation:** We do not sell, trade, rent, or monetize your personal information or uploaded photos to any third parties.
+* **Essential Service Providers:** Your data is shared strictly with essential infrastructure partners (Fal.ai for AI generation, Supabase for secure cloud storage, and RevenueCat for subscription verification) to enable app features.
+* **Legal Requirements:** We may disclose your information if required by law, court order, or governmental authority, or to protect the safety, rights, and property of our users.
 
-## 5. Children's Privacy
-The App is not intended for or directed to children under the age of 13 (or 16 in certain jurisdictions). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us immediately so we can delete it.
+## 6. Data Retention, Security, and Account Deletion
+* **Data Retention:** Uploaded room photos and generated renders are retained only as long as necessary to provide you with your design history within the app.
+* **Security Measures:** We implement technical safeguards—including SSL/TLS encryption in transit and Row-Level Security (RLS) at rest—to prevent unauthorized access to your uploaded files.
+* **In-App Data & Account Deletion:** In accordance with Apple App Store policies, you can request or trigger the immediate deletion of your profile data, uploaded photos, and generated outputs at any time via the "Delete My Account & Data" option inside the app settings.
 
-## 6. Your Data Rights & Control
-Depending on your jurisdiction, you have the following rights regarding your data:
-* **Access & Deletion:** You may request the deletion of any cached diagnostic logs or support records by contacting our team.
-* **App Uninstallation:** You can stop all data collection by uninstalling the App from your iOS device.
+## 7. Your Privacy Rights (GDPR & CCPA Compliance)
+Depending on your place of residence, you hold statutory rights regarding your personal data:
 
-## 7. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Effective Date" at the top of this document. Continued use of the App after updates constitutes acceptance of the revised policy.
+* **Right to Access & Copy:** Request details on what data is stored regarding your account.
+* **Right to Correction:** Update preferences directly within your app settings.
+* **Right to Deletion (Right to be Forgotten):** Request or execute the total removal of your data from our servers.
+* **Right to Restrict Processing:** Object to or restrict specific data handling activities.
 
-## 8. Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+To exercise any of these rights outside of the in-app deletion button, contact us using the details below.
+
+## 8. Intellectual Property & User Responsibility
+By uploading photos to Roomo AI, you confirm that you own or have obtained permission from the property owner to upload and modify the images. The outputs provided by the application are AI-generated visualizations intended strictly for interior design inspiration.
+
+## 9. Children's Privacy
+Roomo AI is not directed at children under the age of 13 (or 16 in certain jurisdictions), and we do not knowingly collect personal data from children. If a child has provided us with personal information, contact us immediately so we can remove it.
+
+## 10. Changes to This Privacy Policy
+We may revise this policy from time to time. We will update the "Effective Date" at the top when updates occur.
+
+## 11. Contact Us
+For questions, privacy inquiries, or data removal requests:
+
 * **Support Email:** roomoai123@gmail.com
-* **Developer / Team Name:** Roomo AI Team
+* **Developer / Company Name:** Roomo AI Team
